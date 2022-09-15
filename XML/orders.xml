@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE orders SYSTEM "order_type.dtd">
+<orders>
+    <order>
+        <orderID>101</orderID>
+        <cname>AJ</cname>
+        <phone>9493248889</phone>
+        <address>Vijayawada Krishna</address>
+        <date>25/08/2022</date>
+        <items>
+            <item>
+                <item_name>Pizza</item_name>
+                <quantity>1</quantity>
+            </item>
+            <item>
+                <item_name>Burger</item_name>
+                <quantity>1</quantity>
+            </item>
+        </items>
+        <amount>450</amount>
+    </order>
+</orders>
